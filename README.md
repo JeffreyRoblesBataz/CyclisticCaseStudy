@@ -180,8 +180,6 @@ Based on the comprehensive analysis performed in this project, I propose the fol
 
 3. **Membership Benefits:** Tailor membership benefits to align with the usage patterns of members. Offer perks that cater to shorter rides or quick rides around the city.
 
-4. **Content Strategy:** Leverage the insights on ride duration to craft engaging content that speaks to the preferences and behaviors of casual riders and members.
-
 ## Conclusion
 
 This case study served as a capstone project that allowed me to apply the skills and techniques learned throughout the program. By combining data preparation, exploration, and analysis, I was able to provide actionable insights to Cyclistic. The recommendations put forth are aimed at driving growth, enhancing customer experience, and boosting Cyclistic's position in the bike-sharing market.
